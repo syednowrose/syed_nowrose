@@ -1,11 +1,6 @@
-
 # Hi 👋, I'm Syed Nowrose
 
-<p align="center">
-  <img src="./assets/profile.jpg" width="180" alt="Syed Nowrose"/>
-</p>
-
-<h3 align="center">Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast</h3>
+<h3 align="center">🚀 Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" />
@@ -85,25 +80,11 @@ AI-powered personalized learning platform.
 
 ---
 
-## 📊 GitHub Stats
-
-> Uncomment these after confirming the services load correctly.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syednowrose&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syednowrose&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=syednowrose&theme=tokyonight)
-```
-
----
-
 ## 🌐 Connect With Me
 
-- 📧 syednowrose3@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/syed-nowrose-969412356
-- 🐙 GitHub: https://github.com/syednowrose
+- 📧 **Email:** syednowrose3@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/syed-nowrose-969412356
+- 🐙 **GitHub:** https://github.com/syednowrose
 
 ---
 
@@ -119,9 +100,5 @@ AI-powered personalized learning platform.
 ---
 
 <p align="center">
-<b>"Code. Learn. Build. Repeat."</b>
+<b>💻 "Code. Learn. Build. Repeat."</b>
 </p>
-
-
-
-
